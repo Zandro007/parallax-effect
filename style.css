@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+body{
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.parallax-1{
+    background-image: url(sunshine-1.jpg);
+    min-width: 500px;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+
+.parallax-2{
+    background-image: url(sunshine-2.jpg);
+    min-height: 500px;
+    min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+h1{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    background: #fff;
+    width: 200px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
